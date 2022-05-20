@@ -8,4 +8,4 @@ I ❤ Open Source. I love [Emacs](https://www.gnu.org/software/emacs/) and [Go](
 * Being an Expert for Go
 * Being an Author of many Go tools
 
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=jakeress&show_icons=true&count_private=true&theme=Gradient)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=jakeress&show_icons=true)
