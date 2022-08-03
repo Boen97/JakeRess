@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%EF%BC%8CI'm+Jake+Ress)](https://git.io/typing-svg)
+### Hey 👋, I'm Jake
 
 [![Github](https://img.shields.io/github/followers/jakeress?label=Follow&style=social)](https://github.com/jakeress)
 ![](https://komarev.com/ghpvc/?username=jakeress)![](https://hit.yhype.me/github/profile?user_id=30548449)
